@@ -1,0 +1,30 @@
+{
+  "registrationScreen": {
+    "validUsername": "milan",
+    "usernameWithSpecialCharacters": "mi1!l",
+    "alreadyInUseUsername": "milan",
+    "validEmail": "milanobrenov@gmail.com",
+    "validPassword": "Valid1234",
+    "invalidEmail": "milanobrenovgmail.com",
+    "alertMessage": "Your account registration has been submitted and is pending email verification.",
+    "invalidPassword": "valid1234",
+    "invalidUsername": "JD",
+    "weakPassword": "llllllll",
+    "weakPasswordMessage": "Weak!",
+    "usernameErrorMessage": "Please enter at least 5 characters.",
+    "invalidConfirmPassword": "Mismatch1234",
+    "emptyErrorMessage": "All fields must be filled!",
+    "invalidEmailMessage": "Please enter a valid email address.",
+    "invalidPasswordMessage": "Your password must be at least 8 characters long.",
+    "invalidConfirmEmailMessage": "Email address does not match.",
+    "invalidConfirmPasswordMessage": "Password does not match, please check again.",
+    "checkTermsErrorMessage": "Please accept our Terms and Conditions.",
+    "specialCharacterErrorMessage": "Only alphanumeric characters allowed.",
+    "existingUsernameErrorMessage": "Sorry! The username you entered is already in use.",
+    "emptyUsernameMessage": "Please enter Username.",
+    "emptyEmailMessage": "Please enter a valid email address.",
+    "emptyConfirmEmailMessage":"Please re-enter your email address.",
+    "emptyPasswordMessage":"Please enter Password."
+
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "data": {
+        "validUsername": "milan",
+        "usernameWithSpecialCharacters": "mi1!l",
+        "alreadyInUseUsername": "milan",
+        "validEmail": "milanobrenov@gmail.com",
+        "validPassword": "Valid1234",
+        "invalidEmail": "milanobrenovgmail.com",
+        "invalidPassword": "val",
+        "invalidEmailMessage": "The email field format is invalid.",
+        "invalidPasswordMessage": "The password field must be at least 6 characters.",
+        "existingEmailErrorMessage": "The email has already been taken.",
+        "existingUsernameErrorMessage": "The username has already been taken.",
+        "emptyUsernameMessage": "The username field is required.",
+        "emptyEmailMessage": "The email field is required.",
+        "emptyPasswordMessage": "The password field is required.",
+        "unexistingCredentials": "The email address or password you entered is invalid"
+
+    }
+}
